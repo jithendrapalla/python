@@ -131,8 +131,7 @@ if sum1==temp:
 else:
     print("not")
 '''
-#119.Wap to get the following output. In={10:'star',20:'bye',30:'moon',40:'apple'}
-#Out={10:’a’,20:’e’,30:’oo’,40:’ae’}
+#119.Wap to get the following output. In={10:'star',20:'bye',30:'moon',40:'apple'} Out={10:’a’,20:’e’,30:’oo’,40:’ae’}
 '''
 s=eval(input("enter"))
 out={}
